@@ -2,7 +2,7 @@
 1.
 const income = 100;
 const expense = 40;
-const remain = credit - debate;
+const remain = income - expense;
 
 2.
 const havePencil = 10;
@@ -60,4 +60,5 @@ const eatEachDay = 4;
 const totalDay = totalRice/eatEachDay;
 const month = 30;
 const totalMonth = totalDay / month;
-console.log(totalDay, totalMonth);
+// console.log(totalDay, totalMonth);
+
